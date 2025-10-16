@@ -1,0 +1,84 @@
+/* Header */
+header {
+    background-color: red;
+    height: 100px;
+}
+/* Footer */
+footer {
+    background-color: yellowgreen;
+    height: 100px;
+}
+/* Cell kleuren */
+#R1K1 {
+    background-color: red;
+}
+#R1K2 {
+    background-color: green;
+}
+#R1K3 {
+    background-color: blue;
+}
+#R1K4 {
+    background-color: yellow;
+}
+#R2K1 {
+    background-color: cyan;
+}
+#R2K2 {
+    background-color: magenta;
+}
+#R2K3 {
+    background-color: white;
+}
+#R2K4 {
+    background-color: orange;
+}
+#R3K1 {
+    background-color: purple;
+}
+#R3K2 {
+    background-color: teal;
+}
+#R3K3 {
+    background-color: gray;
+}
+#R3K4 {
+    background-color: maroon;
+}
+#R4K1 {
+    background-color: navy;
+}
+#R4K2 {
+    background-color: lime;
+}
+#R4K3 {
+    background-color: pink;
+}
+#R4K4 {
+    background-color: olive;
+}
+/* Woord kleuren */
+#w1 {
+    background-color: green ;
+}
+#w2 {
+    background-color:yellow;
+}
+#w3 {
+    background-color: magenta;
+}
+#w4 {
+    background-color: orange;
+}
+#w5 {
+    background-color: teal;
+}
+#w6 {
+    background-color: maroon;
+}
+#w7 {
+    background-color: lime;
+}
+#w8 {
+    background-color: olive;
+}
